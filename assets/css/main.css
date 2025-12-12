@@ -85,7 +85,7 @@
   --tj-color-heading-primary: #051229;
   --tj-color-text-body: #364052;
   --tj-color-text-body-2: #7e8590;
-  --tj-color-theme-primary: #0075ff;
+  --tj-color-theme-primary: #2e3090;
   --tj-color-theme-dark: #051229;
   --tj-color-theme-bg: #e1e8f0;
   --tj-color-theme-bg-2: #dfecfd;
@@ -3424,6 +3424,7 @@ img {
 /* !END: Hamburger CSS */
 /* START: Footer CSS */
 .tj-footer-area {
+  padding: 200px 0 0 0;
   position: relative;
   background: var(--tj-color-theme-dark);
   border-top: 1px solid var(--tj-color-border-1);
