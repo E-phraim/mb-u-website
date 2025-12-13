@@ -12262,6 +12262,9 @@ blockquote cite::before {
   color: var(--tj-color-common-white-2);
   margin-bottom: 35px;
 }
+.skill-text{
+  color: black;
+}
 .skill-wrapper .desc p:last-child {
   margin-bottom: 0;
 }
